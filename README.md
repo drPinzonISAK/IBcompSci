@@ -32,4 +32,6 @@ The following web site developed by researcher Anders Brownworth, includes two v
 Questions:
 1. What is the number of leading zeros currently used in the hash for Bitcoin?
 1. What is the desired time required to find a Hash in Bitcoin?
+1. Does a change in a Private Key affect the blockchain as in the case of the public key?
+1. Is a Public Key uniquely linked to a private key?
 
