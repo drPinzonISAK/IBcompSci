@@ -27,11 +27,18 @@ Pablo’s investigations showed that once a local currency had become establishe
 One Santa Monica resident, Dolores, a local computer science graduate, has suggested a way to overcome these problems. She has explained that “a **cryptocurrency based on blockchain** could help Santa Monica to avoid these problems because it doesn’t require any central administration. People who don’t know each other can transact without any need for a central authority, and that will remove these costs”. Pablo and Dolores have decided that the next step would be to promote the idea of a new cryptocurrency, called **MONS**, for Santa Monica.
 
 ### Preparatory Research
-The following web site developed by researcher Anders Brownworth, includes two videos with a comprenhensive introduction to the blockchain technology: https://andersbrownworth.com/blockchain/
+
+①The following web site developed by researcher Anders Brownworth, includes two videos with a comprenhensive introduction to the blockchain technology: https://andersbrownworth.com/blockchain/
+②The following video explains the difference between prof-of-work and prof-of-stake。https://www.youtube.com/watch?v=M3EFi_POhps
 
 Questions:
 1. What is the number of leading zeros currently used in the hash for Bitcoin?
 1. What is the desired time required to find a Hash in Bitcoin?
 1. Does a change in a Private Key affect the blockchain as in the case of the public key?
 1. Is a Public Key uniquely linked to a private key?
-
+1. Who/What changes the bitcoin difficulty?
+1. How many miners (i.e. processing power) are currently needed to run the 51% attack?
+1. What are some possible attacks on a blockchain? Hacking a major company which handles wallets, sends bitcoins, stores major blockhains, etc.
+1. Are there major bitcoin servers? 
+1. Distribution of bitcoin owners? 
+1. What is a Merkle tree?
