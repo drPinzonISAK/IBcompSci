@@ -29,6 +29,7 @@ One Santa Monica resident, Dolores, a local computer science graduate, has sugge
 ### Preparatory Research
 
 ①The following web site developed by researcher Anders Brownworth, includes two videos with a comprenhensive introduction to the blockchain technology: https://andersbrownworth.com/blockchain/
+
 ②The following video explains the difference between prof-of-work and prof-of-stake。https://www.youtube.com/watch?v=M3EFi_POhps
 
 Questions:
